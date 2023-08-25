@@ -17,6 +17,7 @@ public class Simulador {
         return this.alumnos;
     }
 
+
     public List<String> generarListado() {
 
         for (Nombre nombre : Nombre.values()) {
